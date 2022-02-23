@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>Iseseisevtoo.Program</StartupObject>
+    <StartupObject>Iseseisevtoo.Строка_произвольной_длинны</StartupObject>
   </PropertyGroup>
 
 </Project>
