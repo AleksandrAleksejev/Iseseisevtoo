@@ -6,9 +6,10 @@ namespace Iseseisevtoo
 {
     class Строка_произвольной_длинны
     {
+        
         static void Main(string[] args)
         {
-            //1
+            //Ü 1. Введите с клавиатуры строку произвольной длины и подсчитайте процент вхождения заданного символа в строку.
 
             Console.WriteLine("Введите символы : ");
             string str = Console.ReadLine();
